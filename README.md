@@ -17,3 +17,14 @@
 - [Tailwind CSS](https://tailwindcss.com/)
 - [ShadCN UI](https://ui.shadcn.com/)
 - [Lucide Icons](https://lucide.dev/)
+  <<<<<<< HEAD
+  =======
+
+## 🚀 Cara Menjalankan Secara Lokal
+
+```bash
+git clone https://github.com/username/netbel.git
+cd netbel
+npm install
+npm run dev
+```
